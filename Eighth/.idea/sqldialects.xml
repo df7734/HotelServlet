@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/sql/create-hotel.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/hotel/AssignServlet.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/hotel/BookingServlet.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/hotel/ChooseRoomServlet.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/hotel/LoginServlet.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/hotel/OrderServlet.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/hotel/RegistrationServlet.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/hotel/dao/BookingsDao.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/hotel/dao/OrdersDao.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/hotel/dao/RoomsDao.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/hotel/dao/UsersDao.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/account.jsp" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/chooseRoom.jsp" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/comfort.jsp" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/manager.jsp" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/premium.jsp" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/standard.jsp" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/viewRooms.jsp" dialect="MySQL" />
+  </component>
+</project>

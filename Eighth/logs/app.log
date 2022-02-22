@@ -1,0 +1,359 @@
+2022-02-16 19:47:58,197 INFO c.e.h.RegistrationServlet [http-nio-8080-exec-6] valid
+2022-02-16 19:47:58,602 INFO c.e.h.RegistrationServlet [http-nio-8080-exec-6] successful registration
+2022-02-16 19:48:08,207 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-16 19:48:08,208 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-16 19:48:41,917 INFO c.e.h.OrderServlet [http-nio-8080-exec-2] success
+2022-02-16 19:48:41,917 INFO c.e.h.OrderServlet [http-nio-8080-exec-2] close connection
+2022-02-16 19:49:38,776 INFO c.e.h.BookingServlet [http-nio-8080-exec-5] success
+2022-02-16 19:49:38,780 INFO c.e.h.BookingServlet [http-nio-8080-exec-5] set date success
+2022-02-16 19:49:43,546 INFO c.e.h.LogoutServlet [http-nio-8080-exec-10] logout
+2022-02-16 19:49:47,785 INFO c.e.h.LoginServlet [http-nio-8080-exec-5] login
+2022-02-16 19:49:47,785 INFO c.e.h.LoginServlet [http-nio-8080-exec-5] successful redirect to index.jsp
+2022-02-16 19:50:01,509 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-3] success
+2022-02-16 19:50:32,911 INFO c.e.h.AssignServlet [http-nio-8080-exec-7] success
+2022-02-16 19:50:58,937 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-6] success
+2022-02-16 19:51:01,886 INFO c.e.h.AssignServlet [http-nio-8080-exec-7] success
+2022-02-16 19:51:03,513 INFO c.e.h.LogoutServlet [http-nio-8080-exec-8] logout
+2022-02-16 19:51:11,031 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-16 19:51:11,032 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-16 19:51:16,963 INFO c.e.h.LogoutServlet [http-nio-8080-exec-4] logout
+2022-02-16 19:51:20,330 INFO c.e.h.LoginServlet [http-nio-8080-exec-8] login
+2022-02-16 19:51:20,330 INFO c.e.h.LoginServlet [http-nio-8080-exec-8] successful redirect to index.jsp
+2022-02-16 19:51:22,375 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-5] success
+2022-02-16 19:51:24,335 INFO c.e.h.AssignServlet [http-nio-8080-exec-7] success
+2022-02-16 19:51:26,013 INFO c.e.h.LogoutServlet [http-nio-8080-exec-8] logout
+2022-02-16 19:51:31,475 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-16 19:51:31,476 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-16 19:55:19,392 INFO c.e.h.LogoutServlet [http-nio-8080-exec-1] logout
+2022-02-18 10:26:24,368 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-18 10:26:24,374 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-18 10:37:24,828 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-18 10:37:24,834 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-18 10:37:31,398 INFO c.e.h.LogoutServlet [http-nio-8080-exec-1] logout
+2022-02-18 10:37:34,442 INFO c.e.h.LoginServlet [http-nio-8080-exec-7] login
+2022-02-18 10:37:34,443 INFO c.e.h.LoginServlet [http-nio-8080-exec-7] successful redirect to index.jsp
+2022-02-18 10:45:37,566 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-18 10:45:37,572 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-18 10:45:43,333 INFO c.e.h.LogoutServlet [http-nio-8080-exec-3] logout
+2022-02-18 10:45:51,202 INFO c.e.h.LoginServlet [http-nio-8080-exec-9] login
+2022-02-18 10:45:51,203 INFO c.e.h.LoginServlet [http-nio-8080-exec-9] successful redirect to index.jsp
+2022-02-18 10:46:42,514 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-18 10:46:42,520 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-18 10:56:50,865 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-18 10:56:50,871 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-18 10:59:34,099 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-18 10:59:34,105 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-18 11:01:44,801 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] login
+2022-02-18 11:01:44,807 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] successful redirect to index.jsp
+2022-02-18 11:02:05,557 INFO c.e.h.LogoutServlet [http-nio-8080-exec-3] logout
+2022-02-18 11:03:19,772 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] login
+2022-02-18 11:03:19,777 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] successful redirect to index.jsp
+2022-02-18 11:04:19,121 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-18 11:04:19,128 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-18 11:08:05,246 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-18 11:08:05,252 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-18 11:09:32,871 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-18 11:09:32,877 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-18 11:11:11,771 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-18 11:11:11,778 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-18 11:48:04,744 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-18 11:48:04,751 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-18 11:48:09,887 INFO c.e.h.LogoutServlet [http-nio-8080-exec-5] logout
+2022-02-18 11:48:12,812 ERROR c.e.h.LoginServlet [http-nio-8080-exec-10] wrong password
+2022-02-18 11:48:16,121 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-18 11:48:16,122 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-18 11:48:34,690 INFO c.e.h.OrderServlet [http-nio-8080-exec-10] success
+2022-02-18 11:48:34,691 INFO c.e.h.OrderServlet [http-nio-8080-exec-10] close connection
+2022-02-18 11:48:36,497 INFO c.e.h.LogoutServlet [http-nio-8080-exec-5] logout
+2022-02-18 11:48:39,478 INFO c.e.h.LoginServlet [http-nio-8080-exec-10] login
+2022-02-18 11:48:39,478 INFO c.e.h.LoginServlet [http-nio-8080-exec-10] successful redirect to index.jsp
+2022-02-18 11:48:42,528 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-8] success
+2022-02-18 11:48:44,205 INFO c.e.h.AssignServlet [http-nio-8080-exec-9] success
+2022-02-18 11:48:45,658 INFO c.e.h.LogoutServlet [http-nio-8080-exec-10] logout
+2022-02-18 11:48:52,332 INFO c.e.h.LoginServlet [http-nio-8080-exec-5] login
+2022-02-18 11:48:52,332 INFO c.e.h.LoginServlet [http-nio-8080-exec-5] successful redirect to index.jsp
+2022-02-18 12:00:09,565 INFO c.e.h.RegistrationServlet [http-nio-8080-exec-1] valid
+2022-02-18 12:00:09,991 INFO c.e.h.RegistrationServlet [http-nio-8080-exec-1] failed registration
+2022-02-18 12:00:17,502 INFO c.e.h.RegistrationServlet [http-nio-8080-exec-5] valid
+2022-02-18 12:00:17,506 INFO c.e.h.RegistrationServlet [http-nio-8080-exec-5] successful registration
+2022-02-18 12:08:13,765 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] login
+2022-02-18 12:08:13,771 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] successful redirect to index.jsp
+2022-02-18 12:08:22,760 INFO c.e.h.OrderServlet [http-nio-8080-exec-9] success
+2022-02-18 12:08:40,656 INFO c.e.h.OrderServlet [http-nio-8080-exec-10] success
+2022-02-18 12:08:48,045 INFO c.e.h.OrderServlet [http-nio-8080-exec-1] success
+2022-02-18 12:08:56,166 INFO c.e.h.OrderServlet [http-nio-8080-exec-3] success
+2022-02-18 12:29:12,252 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] login
+2022-02-18 12:29:12,258 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] successful redirect to index.jsp
+2022-02-18 12:29:20,935 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-1] success
+2022-02-18 12:29:25,656 INFO c.e.h.AssignServlet [http-nio-8080-exec-2] success
+2022-02-18 12:29:28,954 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-4] success
+2022-02-18 12:29:31,246 INFO c.e.h.AssignServlet [http-nio-8080-exec-5] success
+2022-02-18 12:41:32,086 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-18 12:41:32,091 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-18 12:41:47,603 INFO c.e.h.BookingServlet [http-nio-8080-exec-1] success
+2022-02-18 12:41:47,614 INFO c.e.h.BookingServlet [http-nio-8080-exec-1] set date success
+2022-02-18 12:41:53,739 INFO c.e.h.LogoutServlet [http-nio-8080-exec-5] logout
+2022-02-18 12:52:04,018 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-18 12:52:04,024 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-18 12:52:15,550 INFO c.e.h.BookingServlet [http-nio-8080-exec-1] success
+2022-02-18 12:52:15,560 INFO c.e.h.BookingServlet [http-nio-8080-exec-1] set date success
+2022-02-18 12:52:29,862 INFO c.e.h.BookingServlet [http-nio-8080-exec-2] success
+2022-02-18 12:52:29,866 INFO c.e.h.BookingServlet [http-nio-8080-exec-2] set date success
+2022-02-18 13:06:24,779 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] login
+2022-02-18 13:06:24,785 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] successful redirect to index.jsp
+2022-02-18 13:06:27,361 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-2] success
+2022-02-18 13:06:28,735 INFO c.e.h.AssignServlet [http-nio-8080-exec-1] success
+2022-02-18 13:13:58,829 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] login
+2022-02-18 13:13:58,835 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] successful redirect to index.jsp
+2022-02-18 13:14:25,897 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-3] success
+2022-02-18 13:14:31,012 INFO c.e.h.AssignServlet [http-nio-8080-exec-4] success
+2022-02-18 13:14:40,894 INFO c.e.h.OrderServlet [http-nio-8080-exec-10] success
+2022-02-18 15:17:42,818 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-18 15:17:42,824 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-18 15:17:55,348 INFO c.e.h.OrderServlet [http-nio-8080-exec-8] success
+2022-02-18 15:17:57,608 INFO c.e.h.LogoutServlet [http-nio-8080-exec-3] logout
+2022-02-18 15:18:01,552 INFO c.e.h.LoginServlet [http-nio-8080-exec-8] login
+2022-02-18 15:18:01,552 INFO c.e.h.LoginServlet [http-nio-8080-exec-8] successful redirect to index.jsp
+2022-02-18 15:18:05,128 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-6] success
+2022-02-18 15:18:06,157 INFO c.e.h.AssignServlet [http-nio-8080-exec-10] success
+2022-02-18 15:18:08,173 INFO c.e.h.LogoutServlet [http-nio-8080-exec-8] logout
+2022-02-18 15:18:11,003 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] login
+2022-02-18 15:18:11,003 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] successful redirect to index.jsp
+2022-02-18 15:18:27,373 INFO c.e.h.OrderServlet [http-nio-8080-exec-2] success
+2022-02-18 15:18:36,712 INFO c.e.h.OrderServlet [http-nio-8080-exec-9] success
+2022-02-18 16:13:04,424 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] login
+2022-02-18 16:13:04,430 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] successful redirect to index.jsp
+2022-02-18 16:13:29,025 INFO c.e.h.BookingServlet [http-nio-8080-exec-1] success
+2022-02-18 16:13:29,037 INFO c.e.h.BookingServlet [http-nio-8080-exec-1] set date success
+2022-02-18 16:13:38,316 INFO c.e.h.LogoutServlet [http-nio-8080-exec-6] logout
+2022-02-18 16:13:41,053 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-18 16:13:41,053 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-18 16:13:44,054 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-9] success
+2022-02-18 16:13:45,388 INFO c.e.h.AssignServlet [http-nio-8080-exec-10] success
+2022-02-18 16:13:46,270 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-1] success
+2022-02-18 16:13:46,964 INFO c.e.h.AssignServlet [http-nio-8080-exec-2] success
+2022-02-18 16:13:49,690 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-3] success
+2022-02-18 16:13:50,680 INFO c.e.h.AssignServlet [http-nio-8080-exec-4] success
+2022-02-18 16:13:59,075 INFO c.e.h.LogoutServlet [http-nio-8080-exec-5] logout
+2022-02-18 16:14:02,307 INFO c.e.h.LoginServlet [http-nio-8080-exec-10] login
+2022-02-18 16:14:02,307 INFO c.e.h.LoginServlet [http-nio-8080-exec-10] successful redirect to index.jsp
+2022-02-18 16:14:17,987 INFO c.e.h.LogoutServlet [http-nio-8080-exec-9] logout
+2022-02-18 16:14:22,195 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-18 16:14:22,195 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-18 16:14:38,135 INFO c.e.h.OrderServlet [http-nio-8080-exec-3] success
+2022-02-18 16:15:31,025 INFO c.e.h.OrderServlet [http-nio-8080-exec-7] success
+2022-02-18 16:15:50,527 INFO c.e.h.LogoutServlet [http-nio-8080-exec-1] logout
+2022-02-18 16:28:30,389 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-18 16:28:30,395 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-18 16:28:41,166 INFO c.e.h.BookingServlet [http-nio-8080-exec-10] success
+2022-02-18 16:28:41,178 INFO c.e.h.BookingServlet [http-nio-8080-exec-10] set date success
+2022-02-18 16:28:58,567 INFO c.e.h.BookingServlet [http-nio-8080-exec-4] success
+2022-02-18 16:28:58,570 INFO c.e.h.BookingServlet [http-nio-8080-exec-4] set date success
+2022-02-18 16:33:14,265 INFO c.e.h.LoginServlet [http-nio-8080-exec-5] login
+2022-02-18 16:33:14,270 INFO c.e.h.LoginServlet [http-nio-8080-exec-5] successful redirect to index.jsp
+2022-02-18 16:33:47,136 INFO c.e.h.BookingServlet [http-nio-8080-exec-3] success
+2022-02-18 16:33:47,147 INFO c.e.h.BookingServlet [http-nio-8080-exec-3] set date success
+2022-02-18 16:33:58,920 INFO c.e.h.BookingServlet [http-nio-8080-exec-5] success
+2022-02-18 16:33:58,923 INFO c.e.h.BookingServlet [http-nio-8080-exec-5] set date success
+2022-02-18 16:34:07,985 INFO c.e.h.BookingServlet [http-nio-8080-exec-4] success
+2022-02-18 16:34:07,989 INFO c.e.h.BookingServlet [http-nio-8080-exec-4] set date success
+2022-02-18 16:41:01,237 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-18 16:41:01,243 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-18 16:41:04,965 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-10] success
+2022-02-18 16:41:24,980 INFO c.e.h.AssignServlet [http-nio-8080-exec-2] success
+2022-02-18 16:41:26,156 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-3] success
+2022-02-18 16:41:42,388 INFO c.e.h.BookingServlet [http-nio-8080-exec-9] success
+2022-02-18 16:41:42,392 INFO c.e.h.BookingServlet [http-nio-8080-exec-9] set date success
+2022-02-18 16:41:45,483 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-3] success
+2022-02-18 16:50:58,420 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-18 16:50:58,426 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-18 16:57:16,165 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-4] success
+2022-02-18 16:57:48,858 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-7] success
+2022-02-18 16:57:51,912 INFO c.e.h.LogoutServlet [http-nio-8080-exec-8] logout
+2022-02-18 16:58:00,628 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] login
+2022-02-18 16:58:00,628 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] successful redirect to index.jsp
+2022-02-18 16:58:05,510 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-10] success
+2022-02-18 16:58:18,044 INFO c.e.h.BookingServlet [http-nio-8080-exec-7] success
+2022-02-18 16:58:18,054 INFO c.e.h.BookingServlet [http-nio-8080-exec-7] set date success
+2022-02-18 16:58:20,263 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-1] success
+2022-02-18 16:59:35,216 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-18 16:59:35,222 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-18 16:59:37,143 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-9] success
+2022-02-18 16:59:39,364 INFO c.e.h.AssignServlet [http-nio-8080-exec-10] success
+2022-02-18 16:59:46,427 INFO c.e.h.BookingServlet [http-nio-8080-exec-7] success
+2022-02-18 16:59:46,430 INFO c.e.h.BookingServlet [http-nio-8080-exec-7] set date success
+2022-02-18 16:59:52,514 INFO c.e.h.BookingServlet [http-nio-8080-exec-5] success
+2022-02-18 16:59:52,517 INFO c.e.h.BookingServlet [http-nio-8080-exec-5] set date success
+2022-02-18 17:00:01,708 INFO c.e.h.BookingServlet [http-nio-8080-exec-4] success
+2022-02-18 17:00:01,712 INFO c.e.h.BookingServlet [http-nio-8080-exec-4] set date success
+2022-02-18 17:00:19,593 INFO c.e.h.OrderServlet [http-nio-8080-exec-5] success
+2022-02-18 17:00:26,560 INFO c.e.h.OrderServlet [http-nio-8080-exec-4] success
+2022-02-18 17:00:34,431 INFO c.e.h.OrderServlet [http-nio-8080-exec-2] success
+2022-02-18 17:00:38,890 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-2] success
+2022-02-18 17:00:39,823 INFO c.e.h.AssignServlet [http-nio-8080-exec-3] success
+2022-02-18 17:00:40,489 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-6] success
+2022-02-18 17:00:41,330 INFO c.e.h.AssignServlet [http-nio-8080-exec-4] success
+2022-02-18 17:00:42,041 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-5] success
+2022-02-18 17:00:42,874 INFO c.e.h.AssignServlet [http-nio-8080-exec-7] success
+2022-02-18 17:00:46,778 INFO c.e.h.LogoutServlet [http-nio-8080-exec-8] logout
+2022-02-18 17:40:44,860 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-18 17:40:44,860 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] login
+2022-02-18 17:40:44,867 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] successful redirect to index.jsp
+2022-02-18 17:40:44,867 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-18 17:43:43,669 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] login
+2022-02-18 17:43:43,674 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] successful redirect to index.jsp
+2022-02-18 17:43:58,831 INFO c.e.h.OrderServlet [http-nio-8080-exec-6] success
+2022-02-18 17:44:00,082 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-8] success
+2022-02-18 17:44:01,448 INFO c.e.h.AssignServlet [http-nio-8080-exec-10] success
+2022-02-18 17:49:30,853 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-18 17:49:30,859 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-18 17:52:53,622 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-18 17:52:53,628 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-18 17:57:27,621 ERROR c.e.h.LoginServlet [http-nio-8080-exec-2] wrong password
+2022-02-18 17:57:32,127 INFO c.e.h.LoginServlet [http-nio-8080-exec-6] login
+2022-02-18 17:57:32,128 INFO c.e.h.LoginServlet [http-nio-8080-exec-6] successful redirect to index.jsp
+2022-02-18 18:02:30,204 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-18 18:02:30,210 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-19 12:28:20,889 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-19 12:28:20,895 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-19 12:29:21,148 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-19 12:29:21,153 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-19 12:30:24,916 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-19 12:30:24,922 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-19 12:33:19,649 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-19 12:33:19,657 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-19 12:34:41,083 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-19 12:34:41,089 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-19 12:37:15,837 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-19 12:37:15,837 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] login
+2022-02-19 12:37:15,843 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] successful redirect to index.jsp
+2022-02-19 12:37:15,843 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-19 12:39:18,976 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-19 12:39:18,983 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-19 12:40:09,259 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-19 12:40:09,267 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-19 12:41:49,856 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-19 12:41:49,862 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-19 12:44:03,098 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-19 12:44:03,104 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-19 12:48:03,188 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-19 12:48:03,194 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-19 12:49:46,876 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-19 12:49:46,883 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-19 12:52:14,045 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-19 12:52:14,051 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-19 13:01:16,772 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-19 13:01:16,780 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-19 13:01:39,622 INFO c.e.h.LogoutServlet [http-nio-8080-exec-4] logout
+2022-02-19 13:07:42,252 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-19 13:07:42,258 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-19 13:07:49,260 INFO c.e.h.LogoutServlet [http-nio-8080-exec-2] logout
+2022-02-19 13:07:55,381 ERROR c.e.h.LoginServlet [http-nio-8080-exec-5] wrong password
+2022-02-19 13:08:32,264 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-19 13:08:32,264 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-19 13:08:34,718 INFO c.e.h.LogoutServlet [http-nio-8080-exec-9] logout
+2022-02-19 13:08:39,465 ERROR c.e.h.LoginServlet [http-nio-8080-exec-8] wrong password
+2022-02-19 13:09:03,792 ERROR c.e.h.LoginServlet [http-nio-8080-exec-5] wrong password
+2022-02-19 13:09:30,397 ERROR c.e.h.LoginServlet [http-nio-8080-exec-10] wrong password
+2022-02-19 13:12:35,258 ERROR c.e.h.LoginServlet [http-nio-8080-exec-8] wrong password
+2022-02-19 13:12:40,404 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] login
+2022-02-19 13:12:40,404 INFO c.e.h.LoginServlet [http-nio-8080-exec-3] successful redirect to index.jsp
+2022-02-19 13:12:43,803 INFO c.e.h.LogoutServlet [http-nio-8080-exec-7] logout
+2022-02-19 13:12:48,991 ERROR c.e.h.LoginServlet [http-nio-8080-exec-6] wrong password
+2022-02-19 13:12:52,355 INFO c.e.h.LoginServlet [http-nio-8080-exec-10] login
+2022-02-19 13:12:52,356 INFO c.e.h.LoginServlet [http-nio-8080-exec-10] successful redirect to index.jsp
+2022-02-19 13:13:03,790 ERROR c.e.h.LoginServlet [http-nio-8080-exec-6] wrong password
+2022-02-19 13:13:05,508 INFO c.e.h.LogoutServlet [http-nio-8080-exec-1] logout
+2022-02-19 13:13:07,615 ERROR c.e.h.LoginServlet [http-nio-8080-exec-6] wrong password
+2022-02-19 13:42:06,523 ERROR c.e.h.LoginServlet [http-nio-8080-exec-3] wrong password
+2022-02-19 13:42:12,100 INFO c.e.h.LoginServlet [http-nio-8080-exec-5] login
+2022-02-19 13:42:12,101 INFO c.e.h.LoginServlet [http-nio-8080-exec-5] successful redirect to index.jsp
+2022-02-19 13:42:15,288 INFO c.e.h.LogoutServlet [http-nio-8080-exec-10] logout
+2022-02-19 13:42:26,450 INFO c.e.h.LoginServlet [http-nio-8080-exec-7] login
+2022-02-19 13:42:26,451 INFO c.e.h.LoginServlet [http-nio-8080-exec-7] successful redirect to index.jsp
+2022-02-19 18:04:46,150 INFO c.e.h.RegistrationServlet [http-nio-8080-exec-3] valid
+2022-02-19 18:04:46,526 INFO c.e.h.RegistrationServlet [http-nio-8080-exec-3] successful registration
+2022-02-19 18:05:07,108 INFO c.e.h.RegistrationServlet [http-nio-8080-exec-4] valid
+2022-02-19 18:05:07,112 INFO c.e.h.RegistrationServlet [http-nio-8080-exec-4] successful registration
+2022-02-19 18:05:16,659 INFO c.e.h.RegistrationServlet [http-nio-8080-exec-5] valid
+2022-02-19 18:05:16,677 INFO c.e.h.RegistrationServlet [http-nio-8080-exec-5] failed registration
+2022-02-19 18:05:22,032 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-19 18:05:22,033 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-19 18:05:38,035 INFO c.e.h.LogoutServlet [http-nio-8080-exec-10] logout
+2022-02-19 18:18:14,562 ERROR c.e.h.LoginServlet [http-nio-8080-exec-4] wrong password
+2022-02-19 18:19:53,261 ERROR c.e.h.LoginServlet [http-nio-8080-exec-1] wrong password
+2022-02-19 18:19:57,688 ERROR c.e.h.LoginServlet [http-nio-8080-exec-5] wrong password
+2022-02-19 18:20:02,616 INFO c.e.h.LoginServlet [http-nio-8080-exec-9] login
+2022-02-19 18:20:02,616 INFO c.e.h.LoginServlet [http-nio-8080-exec-9] successful redirect to index.jsp
+2022-02-19 18:27:42,663 ERROR c.e.h.LoginServlet [http-nio-8080-exec-3] wrong password
+2022-02-19 18:27:53,564 INFO c.e.h.LoginServlet [http-nio-8080-exec-7] login
+2022-02-19 18:27:53,565 INFO c.e.h.LoginServlet [http-nio-8080-exec-7] successful redirect to index.jsp
+2022-02-19 18:32:38,347 ERROR c.e.h.LoginServlet [http-nio-8080-exec-1] wrong password
+2022-02-19 18:32:44,017 INFO c.e.h.LoginServlet [http-nio-8080-exec-6] login
+2022-02-19 18:32:44,017 INFO c.e.h.LoginServlet [http-nio-8080-exec-6] successful redirect to index.jsp
+2022-02-19 18:33:07,737 INFO c.e.h.OrderServlet [http-nio-8080-exec-8] success
+2022-02-19 18:33:55,726 INFO c.e.h.LogoutServlet [http-nio-8080-exec-10] logout
+2022-02-19 18:34:31,092 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-19 18:34:31,093 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-19 19:08:58,035 ERROR c.e.h.LoginServlet [http-nio-8080-exec-8] wrong password
+2022-02-19 19:09:06,353 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-19 19:09:06,353 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-19 19:17:26,257 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-19 19:17:26,263 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-19 19:19:45,643 INFO c.e.h.LogoutServlet [http-nio-8080-exec-1] logout
+2022-02-19 19:19:49,069 INFO c.e.h.LoginServlet [http-nio-8080-exec-6] login
+2022-02-19 19:19:49,069 INFO c.e.h.LoginServlet [http-nio-8080-exec-6] successful redirect to index.jsp
+2022-02-19 19:20:32,130 INFO c.e.h.LogoutServlet [http-nio-8080-exec-4] logout
+2022-02-19 21:14:36,393 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-19 21:14:36,398 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-19 21:14:47,938 INFO c.e.h.LogoutServlet [http-nio-8080-exec-4] logout
+2022-02-19 21:19:04,765 INFO c.e.h.LoginServlet [http-nio-8080-exec-9] login
+2022-02-19 21:19:04,770 INFO c.e.h.LoginServlet [http-nio-8080-exec-9] successful redirect to index.jsp
+2022-02-19 21:19:25,505 INFO c.e.h.LogoutServlet [http-nio-8080-exec-5] logout
+2022-02-19 21:22:04,602 INFO c.e.h.LoginServlet [http-nio-8080-exec-10] login
+2022-02-19 21:22:04,607 INFO c.e.h.LoginServlet [http-nio-8080-exec-10] successful redirect to index.jsp
+2022-02-19 21:22:13,199 INFO c.e.h.OrderServlet [http-nio-8080-exec-7] success
+2022-02-19 21:22:24,630 INFO c.e.h.OrderServlet [http-nio-8080-exec-7] success
+2022-02-19 21:22:51,028 INFO c.e.h.OrderServlet [http-nio-8080-exec-7] success
+2022-02-19 21:22:55,910 INFO c.e.h.LogoutServlet [http-nio-8080-exec-2] logout
+2022-02-19 21:22:59,859 INFO c.e.h.LoginServlet [http-nio-8080-exec-7] login
+2022-02-19 21:22:59,859 INFO c.e.h.LoginServlet [http-nio-8080-exec-7] successful redirect to index.jsp
+2022-02-19 21:23:02,332 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-3] success
+2022-02-19 21:23:06,633 INFO c.e.h.AssignServlet [http-nio-8080-exec-4] success
+2022-02-19 21:23:08,715 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-7] success
+2022-02-19 21:23:11,693 INFO c.e.h.AssignServlet [http-nio-8080-exec-6] success
+2022-02-19 21:23:13,326 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-8] success
+2022-02-19 21:23:16,946 INFO c.e.h.AssignServlet [http-nio-8080-exec-9] success
+2022-02-19 21:23:17,750 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-2] success
+2022-02-19 21:23:19,752 INFO c.e.h.AssignServlet [http-nio-8080-exec-10] success
+2022-02-19 21:23:20,762 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-1] success
+2022-02-19 21:23:21,603 INFO c.e.h.AssignServlet [http-nio-8080-exec-3] success
+2022-02-19 21:23:43,019 INFO c.e.h.OrderServlet [http-nio-8080-exec-4] success
+2022-02-19 21:23:44,512 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-6] success
+2022-02-19 21:23:45,454 INFO c.e.h.AssignServlet [http-nio-8080-exec-5] success
+2022-02-19 21:23:46,107 INFO c.e.h.LogoutServlet [http-nio-8080-exec-8] logout
+2022-02-19 21:24:08,066 INFO c.e.h.LoginServlet [http-nio-8080-exec-7] login
+2022-02-19 21:24:08,066 INFO c.e.h.LoginServlet [http-nio-8080-exec-7] successful redirect to index.jsp
+2022-02-19 21:36:56,650 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] login
+2022-02-19 21:36:56,655 INFO c.e.h.LoginServlet [http-nio-8080-exec-1] successful redirect to index.jsp
+2022-02-19 21:46:45,338 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-19 21:46:45,344 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-19 21:47:26,348 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-3] success
+2022-02-19 21:47:31,125 INFO c.e.h.LogoutServlet [http-nio-8080-exec-5] logout
+2022-02-19 21:47:35,403 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-19 21:47:35,403 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-19 21:47:43,081 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] login
+2022-02-19 21:47:43,081 INFO c.e.h.LoginServlet [http-nio-8080-exec-4] successful redirect to index.jsp
+2022-02-19 21:48:51,731 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-19 21:48:51,738 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-19 21:49:15,061 INFO c.e.h.OrderServlet [http-nio-8080-exec-8] success
+2022-02-19 21:49:35,367 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-5] success
+2022-02-19 21:49:36,509 INFO c.e.h.AssignServlet [http-nio-8080-exec-7] success
+2022-02-19 21:49:37,748 INFO c.e.h.ChooseRoomServlet [http-nio-8080-exec-8] success
+2022-02-19 21:49:38,744 INFO c.e.h.AssignServlet [http-nio-8080-exec-9] success
+2022-02-19 21:50:41,348 INFO c.e.h.LogoutServlet [http-nio-8080-exec-7] logout
+2022-02-19 21:51:16,961 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-19 21:51:16,967 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
+2022-02-19 21:51:24,004 INFO c.e.h.LogoutServlet [http-nio-8080-exec-7] logout
+2022-02-19 21:51:27,189 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] login
+2022-02-19 21:51:27,189 INFO c.e.h.LoginServlet [http-nio-8080-exec-2] successful redirect to index.jsp
